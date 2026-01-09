@@ -138,7 +138,7 @@ padding-top: 4px;
 }
 .child-card img{
     background-color: red;
-    border-radius: 16px;
+    border-radius: 20px;
 
 }
 .child-card h3{
@@ -192,7 +192,7 @@ text-align: left;
     padding-top: 15px;
 
 font-style: Regular;
-font-size: 7pxpx;
+font-size: 7px;
 font-weight: 400;
 line-height: 20px;
 letter-spacing: 0%;
@@ -294,4 +294,9 @@ footer{
     padding-top: 10px;
 
 }
+.btn:hover{
+    background-color: white;
+
+}
+
     
